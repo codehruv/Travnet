@@ -1,0 +1,31 @@
+div.navbar, div.toolbar {
+	background-color:black;
+}
+
+a.link {
+	color:#4ea9f2;
+}
+div.page-content {
+	background-color:transparent;
+	background-image: url("blurred-background-7 copy.jpg");
+	background-size:100% auto;
+}
+div.content-block {
+	margin:3%;
+}
+p {
+	font: "Helvetica Neue";
+	margin:0;
+}
+i {
+	color:black;
+}
+span.tabbar-label {
+	color:white;
+}
+i.tabbar-demo-icon-1 {
+	background-image: url("house-xxl.png");
+	background-repeat: no-repeat;
+	background-position: <left|right>;
+	padding-<left|right>: 256px;
+}
